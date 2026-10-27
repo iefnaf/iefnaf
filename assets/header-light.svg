@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-<title id="title">Fanfei Gao — less is more.</title>
+<title id="title">less is more.</title>
 <desc id="desc">A minimal monochrome wordmark with three fine contour lines and generous whitespace.</desc>
 <style>.compact{display:none}@media(max-width:600px){.wide{display:none}.compact{display:inline}}</style>
 <g class="wide">
-<text x="24" y="42" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" letter-spacing="1">FANFEI GAO / @iefnaf</text>
-<text x="19" y="132" fill="#171717" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="86" font-weight="300" letter-spacing="-2">fanfei</text>
+<text x="24" y="42" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" letter-spacing="1">@iefnaf</text>
+<text x="19" y="132" fill="#171717" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="86" font-weight="300" letter-spacing="-2">iefnaf</text>
 <text x="25" y="177" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="400" >agents · systems · open source</text>
 <text x="1176" y="42" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="end">less is more.</text>
 <g fill="none" stroke="#909090" stroke-width="1" vector-effect="non-scaling-stroke">
@@ -14,8 +14,8 @@
 </g>
 </g>
 <g class="compact">
-<text x="24" y="56" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="400" >FANFEI GAO / @iefnaf</text>
-<text x="15" y="177" fill="#171717" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="144" font-weight="300" letter-spacing="-3">fanfei</text>
+<text x="24" y="56" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="400" >@iefnaf</text>
+<text x="15" y="177" fill="#171717" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="144" font-weight="300" letter-spacing="-3">iefnaf</text>
 <text x="1176" y="168" fill="#737373" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="36" font-weight="400" text-anchor="end">less is more.</text>
 </g>
 <path d="M24 222H1176" fill="none" stroke="#dedede" stroke-width="1" vector-effect="non-scaling-stroke"/>

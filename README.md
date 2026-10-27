@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iefnaf/iefnaf/main/assets/header-dark.svg" />
-  <img src="https://raw.githubusercontent.com/iefnaf/iefnaf/main/assets/header-light.svg" width="100%" alt="Fanfei Gao — less is more." />
+  <img src="https://raw.githubusercontent.com/iefnaf/iefnaf/main/assets/header-light.svg" width="100%" alt="less is more." />
 </picture>
 
-I build agent harnesses at **Z.AI**. Before that, I worked on change data capture for **PolarDB-X at Alibaba Cloud**. These days, I spend my time on context, memory, and tools for coding agents.
+I build agent harnesses. These days, I spend my time on context, memory, and tools for coding agents.
 
-<a href="https://iefnaf.cc/">Blog ↗</a> &nbsp; / &nbsp; <a href="https://iefnaf.cc/wiki/">Notes ↗</a> &nbsp; / &nbsp; <a href="https://iefnaf.cc/about/">About ↗</a> &nbsp; / &nbsp; <a href="mailto:gfanfei@gmail.com">Email ↗</a>
+<a href="https://iefnaf.cc/">Blog ↗</a> &nbsp; / &nbsp; <a href="https://iefnaf.cc/wiki/">Notes ↗</a> &nbsp; / &nbsp; <a href="https://iefnaf.cc/about/">About ↗</a>
 
 ### On my workbench
 
@@ -21,4 +21,4 @@ I build agent harnesses at **Z.AI**. Before that, I worked on change data captur
 - **[We need to forget — not Jev, not summaries](https://iefnaf.cc/jev-compaction-eval-en/)**<br />Experiments with what coding agents actually need to remember. [中文](https://iefnaf.cc/jev-compaction-eval/)
 - **[Pi-Mono Internals · The intelligence layer](https://iefnaf.cc/pi-mono-internals-part-1the-intelligence-layer-ai/)**<br />A source-level tour of Pi's LLM API: models, streaming, and tool calls. 中文
 
-<sub>Beijing · When I'm not coding, I'm probably writing or taking photos.</sub>
+<sub>When I'm not coding, I'm probably writing or taking photos.</sub>
